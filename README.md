@@ -1,4 +1,4 @@
-Lab 1: Sentiment Analysis
+Homework2: Email Sentiment Analysis
 
 Explore flask and huggingface transformers.
 
